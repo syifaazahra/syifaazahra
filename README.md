@@ -20,6 +20,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 ## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/syifaazahra)
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&labelColor=red)](mailto:syifaazahra@example.com)
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&labelColor=red)](mailto:syifaazahraray@gmail.com)
 
 Thanks for visiting my profile!
